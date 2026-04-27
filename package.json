@@ -4,7 +4,7 @@
   "description": "Embed hidden UTF-8 strings inside any text using invisible Unicode variation selectors.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Duyzz/invisiblejs.git"
+    "url": "git+https://github.com/Duyzz/invisiblejs.git"
   },
   "homepage": "https://github.com/Duyzz/invisiblejs#readme",
   "bugs": {
