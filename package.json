@@ -1,0 +1,33 @@
+{
+  "name": "invisiblejs",
+  "version": "1.0.0",
+  "description": "Embed hidden UTF-8 strings inside any text using invisible Unicode variation selectors.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "steganography",
+    "invisible",
+    "unicode",
+    "variation-selectors",
+    "encode",
+    "decode",
+    "hidden"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "vitest": "^3.1.3"
+  }
+}
