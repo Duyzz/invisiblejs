@@ -1,6 +1,6 @@
 {
   "name": "invisiblejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Embed hidden UTF-8 strings inside any text using invisible Unicode variation selectors.",
   "repository": {
     "type": "git",
