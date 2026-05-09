@@ -1,7 +1,7 @@
 {
   "name": "invisiblejs",
-  "version": "1.0.1",
-  "description": "Embed hidden UTF-8 strings inside any text using invisible Unicode variation selectors.",
+  "version": "2.0.0",
+  "description": "Embed hidden UTF-8 strings inside any text using invisible Unicode characters. Two codecs: variation-selector (Invisible) and zero-width 2-bit packed (ZeroWidth).",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Duyzz/invisiblejs.git"
@@ -27,9 +27,11 @@
     "invisible",
     "unicode",
     "variation-selectors",
+    "zero-width",
     "encode",
     "decode",
-    "hidden"
+    "hidden",
+    "zwsp"
   ],
   "author": "",
   "license": "MIT",
